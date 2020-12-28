@@ -1,0 +1,13 @@
+body{
+    background:whitesmoke
+}
+div{
+    box-sizing: border-box;
+    margin: auto;
+    width: 600px;
+    height: 600px;
+    background: yellow;
+    font-size: 500px;
+    padding-left: 120px; ; 
+    padding-top:120px ; 
+}
